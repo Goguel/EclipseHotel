@@ -21,8 +21,8 @@ public class Customers {
     private String email;
     private String phone;
 
-    // @OneToMany(mappedBy = "customers_id")
-    //  private List<Reservations> reservations;
+    @OneToMany(mappedBy = "customers_id")
+    private List<Reservations> reservations;
 
     public Customers(CustomersRequestDTO data) {
         this.name = data.getName();
