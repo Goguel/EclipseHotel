@@ -17,21 +17,22 @@ Ela oferece operações CRUD para as entidades: **Clientes**, **Quartos** e **Re
 ✔️ Controle de **reservas**, com vínculo entre clientes e quartos  
 ✔️ Integração com banco de dados **PostgreSQL**  
 ✔️ Conversão entre entidades e DTOs com **ModelMapper**  
-✔️ API documentada com **Swagger/OpenAPI**
+✔️ API documentada com **Swagger**
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🧠 **Java 17+**
-- 🌱 **Spring Boot 3.x**
+- 🧠 **Java 17**
+- 🌱 **Spring Boot 3.4.4**
 - 🧰 **Spring Data JPA**
+- 🐍 **Hibernate**
 - 🐘 **PostgreSQL**
 - 📦 **Maven**
 - 🛠️ **ModelMapper**
-- 🧾 **Swagger UI / OpenAPI**
+- 🧾 **Swagger UII**
 - ✍️ **Lombok**
-- 🐍 **Hibernate**
+
 
 ---
 
@@ -53,8 +54,8 @@ A API está totalmente documentada com Swagger. Após subir o projeto, acesse:
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome Aqui]**  
-📬 GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por **Goguel**  
+📬 GitHub:https://github.com/Goguel
 
 ---
 
